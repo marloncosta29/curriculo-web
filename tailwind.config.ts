@@ -9,8 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#bbc4ca",
+        secondary: "#414140",
+      },
+      boxShadow: {
+        "sharp-right": "40px 40px 0px 10px  #d1d5db", // sombra à direita
       },
     },
   },
