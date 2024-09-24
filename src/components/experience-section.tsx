@@ -6,7 +6,7 @@ export function ExperienceSection() {
       <div className="px-4 py-16 flex flex-col gap-6 md:max-w-[1280px] md:w-full md:mx-auto">
         <div className="w-full flex flex-col items-center justify-center gap-4">
           <span className="bg-gray-200 border-none rounded-xl px-5 py-1">
-            Experiencia
+            Experiência
           </span>
           <p>Algumas das empresas que eu já trabalhei:</p>
         </div>

@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex flex-col gap-6 px-4 py-16">
           <div className="w-full flex flex-col items-center justify-center gap-4">
             <span className="bg-gray-200 border-none rounded-xl px-5 py-1">
-              Entre em contato se quiser
+              Entre em contato
             </span>
             <p className="text-center">
               O que vem a seguir? Sinta-se à vontade para entrar em contato
@@ -44,13 +44,21 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-col justify-center items-center">
-            <span>You may also find me on these platforms!</span>
+            <span>Você também pode me encontrar nessas plataformas!</span>
             <div className="flex flex-row gap-3">
-              <a href="/">
-                <Github />
-              </a>
-              <a href="/">
+              <a
+                href="https://www.linkedin.com/in/marloncosta29/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <Linkedin />
+              </a>
+              <a
+                href="https://github.com/marloncosta29"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Github />
               </a>
             </div>
           </div>

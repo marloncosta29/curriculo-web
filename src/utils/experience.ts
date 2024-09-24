@@ -17,7 +17,7 @@ export const experience = [
   },
   {
     id: 3,
-    company: "Maistre informatica",
+    company: "Maistre Informática",
     position: "Programador Javascript - Front-end",
     period: "mai de 2018 - dez de 2021",
     assignments:

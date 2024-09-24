@@ -6,12 +6,12 @@ export function AboutMeSection() {
     >
       <div className="w-full flex items-center justify-center">
         <span className="bg-gray-200 border-none rounded-xl px-5 py-1">
-          Sobre min
+          Sobre mim
         </span>
       </div>
       <div className="flex flex-col gap-6 md:max-w-[1280px] md:w-full md:mx-auto">
         <h2 className="text-2xl leading-8 font-semibold">
-          Curioso sobre min? aqui esta:
+          Curioso sobre min? Aqui esta:
         </h2>
         <div className="text-base leading-6 font-normal flex flex-col gap-4 md:w-full">
           <p>
@@ -21,31 +21,25 @@ export function AboutMeSection() {
             dúvidas dos usuários, realizar instalações e configurações in loco,
             além de prestar consultoria e implantar sistemas para clientes,
             incluindo a instalação de bancos de dados, configuração de redes e
-            ajustes nos sistemas nas máquinas dos clientes.
-          </p>
-          <p>
-            Posteriormente, migrei para a área de desenvolvimento, com um foco
-            inicial em frontend utilizando AngularJS e React. Especializei-me em
-            React, e essa jornada levou-me a expandir minhas habilidades como
+            ajustes nos sistemas nas máquinas dos clientes. Posteriormente,
+            migrei para a área de desenvolvimento, com um foco inicial em
+            frontend utilizando AngularJS e React. Especializei-me em React, e
+            essa jornada levou-me a expandir minhas habilidades como
             desenvolvedor fullstack, atuando tanto no desenvolvimento de sites
             quanto de aplicativos mobile, além de backend. Com o tempo, evoluí
-            para a posição de desenvolvedor sênior.
-          </p>
-          <p>
-            Durante minha carreira, também adquiri conhecimento em PHP, tendo
-            trabalhado em projetos com Laravel e, mais intensamente, com
-            Symfony. Nesse contexto, fui parte de um projeto monolítico que
-            integrava frontend e backend, desenvolvendo interfaces e rotas
-            conforme as demandas do time de produto.
-          </p>
-          <p>
-            Sempre trabalhei em ambientes ágeis, utilizando Scrum e Kanban como
-            metodologias para garantir entregas eficientes e de qualidade. No
-            momento, estou em busca de novas oportunidades devido ao
-            encerramento das atividades da última empresa em que trabalhei, que
-            foi adquirida e teve sua tecnologia descontinuada. Sou apaixonado
-            por tecnologia, tenho uma forte vontade de aprender continuamente e
-            estou sempre comprometido em entregar o meu melhor em cada projeto.
+            para a posição de desenvolvedor sênior. Durante minha carreira,
+            também adquiri conhecimento em PHP, tendo trabalhado em projetos com
+            Laravel e, mais intensamente, com Symfony. Nesse contexto, fiz parte
+            de um projeto monolítico que integrava frontend e backend,
+            desenvolvendo interfaces e rotas conforme as demandas do time de
+            produto. Sempre trabalhei em ambientes ágeis, utilizando Scrum e
+            Kanban como metodologias para garantir entregas eficientes e de
+            qualidade. No momento, estou em busca de novas oportunidades devido
+            ao encerramento das atividades da última empresa em que trabalhei,
+            que foi adquirida e teve sua tecnologia descontinuada. Sou
+            apaixonado por tecnologia, tenho uma forte vontade de aprender
+            continuamente e estou sempre comprometido em entregar o meu melhor
+            em cada projeto.
           </p>
         </div>
       </div>
